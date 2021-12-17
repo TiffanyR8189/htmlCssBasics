@@ -1,0 +1,9 @@
+/*This is a comment*/
+/*This style applies a green background color*/
+body {
+    background-color: green;
+}
+
+div {
+border: 10px solid purple;
+}
